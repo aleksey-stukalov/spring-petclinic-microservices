@@ -1,0 +1,6 @@
+interface:
+  display_name: "Review Report"
+  short_description: "Evidence-backed, anchored code review reports"
+  default_prompt: "Use $review-report to review this change and write the report under .review/."
+policy:
+  allow_implicit_invocation: true

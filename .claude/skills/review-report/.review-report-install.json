@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "managedBy": "review-report-tool",
+  "sourceVersion": "0.1.0",
+  "installedAt": "2026-08-28T20:34:50.623Z",
+  "files": {
+    "agents/openai.yaml": "d47acce171e968d984824941acb68f627eda9c194743246c4c26e59303d3e1a4",
+    "assets/review-requirements.md": "8685d115e0ab1e571aa550a6cd1d35e43a916b2872f4f8bba7fd39da10da77f2",
+    "references/default-rubric.md": "fc6fbaa9730bce2ab2b95f93b1048b3e63a4cd12b0e28a624048a8e105112cb9",
+    "references/diff-link-contract.md": "fe4b86c84fc384bf26f9461aebc493eca015f1c7a74ac2b04019e3fe8b337419",
+    "references/report-template.md": "bfffaf92f1c3ef194aef92c7510c720ceb881cc77df6b14d765e39fb86abbcd6",
+    "scripts/collect_context.py": "d77484d44832d615c42c8bcd92e31bdf742f815b8a641ed35bf1a1d74d01ced3",
+    "SKILL.md": "6a3e68d8cfd8a1d3d788ef07cd10962cdc8f1e3dfad546b5c12f17ae1fdd5d26"
+  }
+}
